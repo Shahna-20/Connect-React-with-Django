@@ -1,0 +1,2 @@
+This project is a simple fullstack web application built with Django REST Framework (backend API) and React (frontend). It allows users to view and add items through a seamless interface, with real-time updates powered by Axios and REST API integration. Ideal for beginners learning fullstack development with modern tools.![Screenshot 2025-06-11 121648](https://github.com/user-attachments/assets/6768e399-eb85-4cbb-b99d-bf302af85a4d)
+![Screenshot 2025-06-11 121737](https://github.com/user-attachments/assets/02231548-a44b-460e-8286-5e8bd4b69b61)
